@@ -31,3 +31,14 @@
 **Link to work:** [Warmup Problems](https://github.com/bawejakunal/hackerrank/commit/2d13ca50f0934272c72af55a9af3b9919fe60343?diff=unified)  
 **Time:** 02:15  
 
+### Day 5: June 9th, 2017  
+**Today's Progress**: Finished Easy section of Implementation problems on Hackerrank    
+**Thoughts**: Had a little hiccup, hopefully more practise will help me overcome that  
+**Link to work:** [Implementations](https://github.com/bawejakunal/hackerrank/commit/ecb5d80e7e863fdacfa256646c394dce2ec49aba?diff=unified)  
+**Time:** 01:00  
+
+### Day 6: June 9th, 2017  
+**Today's Progress**: Medium difficulty implementations started  
+**Thoughts**: Got stuck unnecessarily in Queens-Attack-II problem. Need avoid overthinking  
+**Link to work:** [Queens Attack II](https://github.com/bawejakunal/hackerrank/commit/f4aa00e22415b2a67b3f5a429c030556b72c7e97)  
+**Time:** 02:00  
