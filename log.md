@@ -42,3 +42,10 @@
 **Thoughts**: Got stuck unnecessarily in Queens-Attack-II problem. Need avoid overthinking  
 **Link to work:** [Queens Attack II](https://github.com/bawejakunal/hackerrank/commit/f4aa00e22415b2a67b3f5a429c030556b72c7e97)  
 **Time:** 02:00  
+
+
+### Day 7: June 9th, 2017  
+**Today's Progress**: Practised two problems for 2D Matrices  
+**Thoughts**: Stuck in determining overlapping squares in a matrix. Need more clarity of concepts and edge cases through practise  
+**Link to work:** [Containers of Balls](https://github.com/bawejakunal/hackerrank/commit/0174678bc7cfb51e034d360c82a029e6406e2aa3)  
+**Time:** 02:30  
