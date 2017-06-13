@@ -37,15 +37,21 @@
 **Link to work:** [Implementations](https://github.com/bawejakunal/hackerrank/commit/ecb5d80e7e863fdacfa256646c394dce2ec49aba?diff=unified)  
 **Time:** 01:00  
 
-### Day 6: June 9th, 2017  
+### Day 6: June 10th, 2017  
 **Today's Progress**: Medium difficulty implementations started  
 **Thoughts**: Got stuck unnecessarily in Queens-Attack-II problem. Need avoid overthinking  
 **Link to work:** [Queens Attack II](https://github.com/bawejakunal/hackerrank/commit/f4aa00e22415b2a67b3f5a429c030556b72c7e97)  
 **Time:** 02:00  
 
 
-### Day 7: June 9th, 2017  
+### Day 7: June 11th, 2017  
 **Today's Progress**: Practised two problems for 2D Matrices  
 **Thoughts**: Stuck in determining overlapping squares in a matrix. Need more clarity of concepts and edge cases through practise  
 **Link to work:** [Containers of Balls](https://github.com/bawejakunal/hackerrank/commit/0174678bc7cfb51e034d360c82a029e6406e2aa3)  
 **Time:** 03:00  
+
+### Day 7: June 12th, 2017  
+**Today's Progress**: String algorithms practised  
+**Thoughts**: Easy job but need more practise for faster implementations and confidence  
+**Link to work:** [Strings Practise](https://github.com/bawejakunal/hackerrank/commit/f1763fa3bc3164c842fce7e544b11ac847b430f1)  
+**Time:** 01:15  
