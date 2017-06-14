@@ -50,8 +50,14 @@
 **Link to work:** [Containers of Balls](https://github.com/bawejakunal/hackerrank/commit/0174678bc7cfb51e034d360c82a029e6406e2aa3)  
 **Time:** 03:00  
 
-### Day 7: June 12th, 2017  
+### Day 8: June 12th, 2017  
 **Today's Progress**: String algorithms practised  
 **Thoughts**: Easy job but need more practise for faster implementations and confidence  
 **Link to work:** [Strings Practise](https://github.com/bawejakunal/hackerrank/commit/f1763fa3bc3164c842fce7e544b11ac847b430f1)  
 **Time:** 01:15  
+
+### Day 9: June 12th, 2017  
+**Today's Progress**: Generic string algorithms and caeser cipher implementation  
+**Thoughts**: Good practise of basics  
+**Link to work:** [Caeser cipher](https://github.com/bawejakunal/hackerrank/commit/246f2c8b582de0a3c596cbe8e51038a436522ac0)  
+**Time:** 01:00  
