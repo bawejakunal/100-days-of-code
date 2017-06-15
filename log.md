@@ -56,8 +56,14 @@
 **Link to work:** [Strings Practise](https://github.com/bawejakunal/hackerrank/commit/f1763fa3bc3164c842fce7e544b11ac847b430f1)  
 **Time:** 01:15  
 
-### Day 9: June 12th, 2017  
+### Day 9: June 13th, 2017  
 **Today's Progress**: Generic string algorithms and caeser cipher implementation  
 **Thoughts**: Good practise of basics  
 **Link to work:** [Caeser cipher](https://github.com/bawejakunal/hackerrank/commit/246f2c8b582de0a3c596cbe8e51038a436522ac0)  
 **Time:** 01:00  
+
+### Day 10: June 14th, 2017  
+**Today's Progress**: Palindromes practise  
+**Thoughts**: Good practise of basics. Need to brush up code efficiency for corner cases.  
+**Link to work:** [Palindromes](https://github.com/bawejakunal/hackerrank/commit/dbca2645093d6cb6c3ab095349354aa22065a51d)  
+**Time:** 01:05  
