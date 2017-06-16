@@ -67,3 +67,9 @@
 **Thoughts**: Good practise of basics. Need to brush up code efficiency for corner cases.  
 **Link to work:** [Palindromes](https://github.com/bawejakunal/hackerrank/commit/dbca2645093d6cb6c3ab095349354aa22065a51d)  
 **Time:** 01:05  
+
+### Day 11: June 15th, 2017  
+**Today's Progress**: Palindromes, anagrams and sets  
+**Thoughts**: Need more practise with reference counting and comparisons.  
+**Link to work:** [Anagrams and sets](https://github.com/bawejakunal/hackerrank/commit/fe97ce256baecd1a759502b1affd4b96663d50fe)  
+**Time:** 01:10  
