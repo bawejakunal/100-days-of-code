@@ -73,3 +73,10 @@
 **Thoughts**: Need more practise with reference counting and comparisons.  
 **Link to work:** [Anagrams and sets](https://github.com/bawejakunal/hackerrank/commit/fe97ce256baecd1a759502b1affd4b96663d50fe)  
 **Time:** 01:10  
+
+### Day 12: June 16th, 2017  
+**Today's Progress**: Interesting palindrome practise problem  
+**Thoughts**: Need to streamline thought process and approach problem one step at a time.  
+**Link to work:** [Richie Rich](https://github.com/bawejakunal/hackerrank/commit/c4c9c98df7b08c9d1996c27c5d5e6a730512266a)  
+**Time:** 01:00  
+
