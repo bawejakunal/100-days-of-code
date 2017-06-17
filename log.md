@@ -80,3 +80,8 @@
 **Link to work:** [Richie Rich](https://github.com/bawejakunal/hackerrank/commit/c4c9c98df7b08c9d1996c27c5d5e6a730512266a)  
 **Time:** 01:00  
 
+### Day 13: June 17th, 2017  
+**Today's Progress**: Anagrams and Permutations  
+**Thoughts**: O(n^2) is not always bad. Have confidence and dont waste time  
+**Link to work**: [Sherlock and Anagrams](https://github.com/bawejakunal/hackerrank/commit/dd660244df510b257426b2c45afe98cade7a6aab)  
+
