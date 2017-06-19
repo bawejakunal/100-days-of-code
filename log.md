@@ -84,8 +84,10 @@
 **Today's Progress**: Anagrams and Permutations  
 **Thoughts**: O(n^2) is not always bad. Have confidence and dont waste time  
 **Link to work**: [Sherlock and Anagrams](https://github.com/bawejakunal/hackerrank/commit/dd660244df510b257426b2c45afe98cade7a6aab)  
+**Time:** 01:30  
 
 ### Day 14: June 18th, 2017  
 **Today's Progress**: Shortest window in a string containing all characters from another string  
 **Thoughts**: I need good practise and revision of substring locating algorithms  
 **Link to work**: [Shortest window of chars from a string](https://github.com/bawejakunal/hackerrank/commit/3b4a96714333fa3433cc90666ebc1124c2fdb103)  
+**Time:** 2:00  
