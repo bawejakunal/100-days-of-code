@@ -91,3 +91,9 @@
 **Thoughts**: I need good practise and revision of substring locating algorithms  
 **Link to work**: [Shortest window of chars from a string](https://github.com/bawejakunal/hackerrank/commit/3b4a96714333fa3433cc90666ebc1124c2fdb103)  
 **Time:** 2:00  
+
+### Day 14: June 19th, 2017  
+**Today's Progress**: Quicksort, medians and counting sort  
+**Thoughts**: Should take care of integer division to avoid time waste  
+**Link to work**: [Quicksort Median](https://github.com/bawejakunal/hackerrank/commit/12227edf76271842945cd86f3157149a6406bbe1)  
+**Time:** 2:00  
