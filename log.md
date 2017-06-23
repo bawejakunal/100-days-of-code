@@ -101,5 +101,5 @@
 ### Day 16: June 21st, 2017  
 **Today's Progress**: Sorting in minimum swaps  
 **Thoughts**: Need broader thinking and practise combining multiple concepts  
-**Link to work**: [Quicksort Median](https://github.com/bawejakunal/hackerrank/commit/384c511c3caecf4110d12eb8b103b866f630d3fa)  
+**Link to work**: [Minimum swaps](https://github.com/bawejakunal/hackerrank/commit/384c511c3caecf4110d12eb8b103b866f630d3fa)  
 **Time:** 1:00 
