@@ -103,3 +103,9 @@
 **Thoughts**: Need broader thinking and practise combining multiple concepts  
 **Link to work**: [Minimum swaps](https://github.com/bawejakunal/hackerrank/commit/384c511c3caecf4110d12eb8b103b866f630d3fa)  
 **Time:** 1:00 
+
+### Day 17: June 22nd, 2017  
+**Today's Progress**: Greedy algorithms  
+**Thoughts**: It was good but there's always room for improvement  
+**Link to work**: [Greedy II](https://github.com/bawejakunal/hackerrank/commit/c5f46b12c1cfdf5fde5d082d850d13a6cdd53c91)  [Greedy I](https://github.com/bawejakunal/hackerrank/commit/fde8b6ff963ea5d5a96990ec4405bb5436470484)  
+**Time:** 1:00 
