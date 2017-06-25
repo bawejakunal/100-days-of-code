@@ -115,3 +115,9 @@
 **Thoughts**: Still on easy problems, had some trouble understanding language  
 **Link to work**: [Greedy III](https://github.com/bawejakunal/hackerrank/commit/ca5540c0d69f2c90d6e5a7d0059f08aba3c118203)  
 **Time:** 1:10 
+
+### Day 19: June 24th, 2017  
+**Today's Progress**: More Greedy algorithms  
+**Thoughts**: Getting a better hang of it :)  
+**Link to work**: [Greedy IV](https://github.com/bawejakunal/hackerrank/commit/cbbff8e72c24301c27c4c3da0fc8f97f9ff15e28b)  
+**Time:** 1:00  
