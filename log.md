@@ -121,3 +121,9 @@
 **Thoughts**: Getting a better hang of it :)  
 **Link to work**: [Greedy IV](https://github.com/bawejakunal/hackerrank/commit/cbbff8e72c24301c27c4c3da0fc8f97f9ff15e28b)  
 **Time:** 1:00  
+
+### Day 20: June 25th, 2017  
+**Today's Progress**: Even more greedy algorithms  
+**Thoughts**: Improved understanding of concepts and approaches. Need to take care of edge cases.  
+**Link to work**: [Greedy V](https://github.com/bawejakunal/hackerrank/commit/7012cca10f8fbe87dda91c6c760b1221bb23b147)  
+**Time:** 1:03  
