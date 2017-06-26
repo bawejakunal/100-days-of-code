@@ -119,7 +119,7 @@
 ### Day 19: June 24th, 2017  
 **Today's Progress**: More Greedy algorithms  
 **Thoughts**: Getting a better hang of it :)  
-**Link to work**: [Greedy IV](https://github.com/bawejakunal/hackerrank/commit/cbbff8e72c24301c27c4c3da0fc8f97f9ff15e28b)  
+**Link to work**: [Greedy IV](https://github.com/bawejakunal/hackerrank/commit/bbff8e72c24301c27c4c3da0fc8f97f9ff15e28b)  
 **Time:** 1:00  
 
 ### Day 20: June 25th, 2017  
