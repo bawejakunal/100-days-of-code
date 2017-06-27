@@ -127,3 +127,10 @@
 **Thoughts**: Improved understanding of concepts and approaches. Need to take care of edge cases.  
 **Link to work**: [Greedy V](https://github.com/bawejakunal/hackerrank/commit/7012cca10f8fbe87dda91c6c760b1221bb23b147)  
 **Time:** 1:03  
+
+
+### Day 21: June 26th, 2017  
+**Today's Progress**: Recrusive algorithms  
+**Thoughts**: Solved easy problems for today, but got stuck in an unconventional optimization for large numbers using string/list representation.  
+**Link to work**: [Recursion I](https://github.com/bawejakunal/hackerrank/commit/4d5d9e4d51242fb8bb0586dbc6023bf81946ad10)  
+**Time:** 1:50  
