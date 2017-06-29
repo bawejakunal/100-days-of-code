@@ -128,9 +128,20 @@
 **Link to work**: [Greedy V](https://github.com/bawejakunal/hackerrank/commit/7012cca10f8fbe87dda91c6c760b1221bb23b147)  
 **Time:** 1:03  
 
-
 ### Day 21: June 26th, 2017  
 **Today's Progress**: Recrusive algorithms  
 **Thoughts**: Solved easy problems for today, but got stuck in an unconventional optimization for large numbers using string/list representation.  
 **Link to work**: [Recursion I](https://github.com/bawejakunal/hackerrank/commit/4d5d9e4d51242fb8bb0586dbc6023bf81946ad10)  
 **Time:** 1:50  
+
+### Day 22: June 27th, 2017  
+**Today's Progress**: Played around with AWS C++ SDK for multipart downloads from S3 and multithreading  
+**Thoughts**: Learned that its good to trust your gut and have confidence. Sometimes even the best SDKs can be broken.  
+**Link to work**: Coming Soon  
+**Time:** 1:30  
+
+### Day 23: June 25th, 2017  
+**Today's Progress**: Recrusion with dynamic programming  
+**Thoughts**: Grasping recursion but equally bad at dynamic programming. Need to get the elephant in the room out.  
+**Link to work**: [Password Cracker (needs more work)](https://github.com/bawejakunal/hackerrank/commit/f541890a4074a1bea1cf2afc5a87da0d600ebbf0)  
+**Time:** 1:03  
