@@ -140,8 +140,20 @@
 **Link to work**: Coming Soon  
 **Time:** 1:30  
 
-### Day 23: June 25th, 2017  
+### Day 23: June 28th, 2017  
 **Today's Progress**: Recrusion with dynamic programming  
 **Thoughts**: Grasping recursion but equally bad at dynamic programming. Need to get the elephant in the room out.  
 **Link to work**: [Password Cracker (needs more work)](https://github.com/bawejakunal/hackerrank/commit/f541890a4074a1bea1cf2afc5a87da0d600ebbf0)  
 **Time:** 1:03  
+
+### Day 24: June 29th, 2017
+**Today's Progress**: More fiddling with AWS C++ and Java SDKs for multipart file downloads from S3 buckets. Seems the C++ sdk is broken as of v1.0.62 released by AWS  
+**Thoughts**: Performance evaluation and doing it correctly, taking all concerned parameters into account is difficult and crucial  
+**Link to work**: Coming Soon  
+**Time:** 2:00  
+
+### Day 25: June 30th, 2017
+**Today's Progress**: Fixed some CSS issues with my webpage. Learned more in depth about the jekyll plugin for github sites, some SCSS/CSS and markdown syntax tricks  
+**Thoughts**: SCSS looks weird at first sight but quite powerful for front-end development.  
+**Link to work**: [SCSS](https://github.com/bawejakunal/bawejakunal.github.io/commit/baffc8bf590c99a3f7653a9ab89084a105ced9c1)  [Jekyll](https://github.com/bawejakunal/bawejakunal.github.io/commit/1454df58f52c8574711c3246a95e155651c5de04)  
+**Time:** 3:00  
