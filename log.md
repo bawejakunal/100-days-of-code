@@ -157,3 +157,15 @@
 **Thoughts**: SCSS looks weird at first sight but quite powerful for front-end development.  
 **Link to work**: [SCSS](https://github.com/bawejakunal/bawejakunal.github.io/commit/baffc8bf590c99a3f7653a9ab89084a105ced9c1)  [Jekyll](https://github.com/bawejakunal/bawejakunal.github.io/commit/1454df58f52c8574711c3246a95e155651c5de04)  
 **Time:** 3:00  
+
+### Day 26: July 1st, 2017
+**Today's Progress**: Math formulae implementation  
+**Thoughts**: Need a lot of precision and edge cases consideration in mathematical coding  
+**Link to work**: [Math-I](https://github.com/bawejakunal/bawejakunal.github.io/commit/44c8f5e192510d6cf136ce2b84c92ba2145a5972)    
+**Time:** 1:00  
+
+### Day 27: July 1st, 2017
+**Today's Progress**: More math formulae implementation  
+**Thoughts**: Need a lot of precision and edge cases consideration in mathematical coding  
+**Link to work**: [Math-II](https://github.com/bawejakunal/bawejakunal.github.io/commit/44c8f5e192510d6cf136ce2b84c92ba2145a5972)    
+**Time:** 1:00  
