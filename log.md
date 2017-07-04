@@ -175,3 +175,10 @@
 **Thoughts**: Need to brush up some skills for practise  
 **Link to work**: [Linked Lists](https://github.com/bawejakunal/leetcode/commit/6e913b6288e3b29998117e16e4dc4ff97284f6eb)    
 **Time:** 1:00  
+
+
+### Day 29: July 4th, 2017  
+**Today's Progress**: Linked Lists, Sieve of erastothenes and other number algorithms  
+**Thoughts**: Need to concentrate more to avoid corner case failures.  
+**Link to work**: [Numbers](https://github.com/bawejakunal/leetcode/commit/07933e694b2099178e19d9b920d95d0d32913623)    
+**Time:** 1:12  
