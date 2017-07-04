@@ -161,17 +161,17 @@
 ### Day 26: July 1st, 2017  
 **Today's Progress**: Math formulae implementation  
 **Thoughts**: Need a lot of precision and edge cases consideration in mathematical coding  
-**Link to work**: [Math-I](https://github.com/bawejakunal/bawejakunal.github.io/commit/44c8f5e192510d6cf136ce2b84c92ba2145a5972)    
+**Link to work**: [Math-I](https://github.com/bawejakunal/leetcode/commit/44c8f5e192510d6cf136ce2b84c92ba2145a5972)    
 **Time:** 1:00  
 
 ### Day 27: July 2nd, 2017  
 **Today's Progress**: More math formulae implementation  
 **Thoughts**: Need a lot of precision and edge cases consideration in mathematical coding  
-**Link to work**: [Math-II](https://github.com/bawejakunal/bawejakunal.github.io/commit/44c8f5e192510d6cf136ce2b84c92ba2145a5972)    
+**Link to work**: [Math-II](https://github.com/bawejakunal/leetcode/commit/44c8f5e192510d6cf136ce2b84c92ba2145a5972)    
 **Time:** 1:00  
 
 ### Day 28: July 3rd, 2017  
 **Today's Progress**: Linked List basic algorithms for reversal and intersection detection  
 **Thoughts**: Need to brush up some skills for practise  
-**Link to work**: [Linked Lists](https://github.com/bawejakunal/bawejakunal.github.io/commit/6e913b6288e3b29998117e16e4dc4ff97284f6eb)    
+**Link to work**: [Linked Lists](https://github.com/bawejakunal/leetcode/commit/6e913b6288e3b29998117e16e4dc4ff97284f6eb)    
 **Time:** 1:00  
