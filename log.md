@@ -146,26 +146,32 @@
 **Link to work**: [Password Cracker (needs more work)](https://github.com/bawejakunal/hackerrank/commit/f541890a4074a1bea1cf2afc5a87da0d600ebbf0)  
 **Time:** 1:03  
 
-### Day 24: June 29th, 2017
+### Day 24: June 29th, 2017  
 **Today's Progress**: More fiddling with AWS C++ and Java SDKs for multipart file downloads from S3 buckets. Seems the C++ sdk is broken as of v1.0.62 released by AWS  
 **Thoughts**: Performance evaluation and doing it correctly, taking all concerned parameters into account is difficult and crucial  
 **Link to work**: Coming Soon  
 **Time:** 2:00  
 
-### Day 25: June 30th, 2017
+### Day 25: June 30th, 2017  
 **Today's Progress**: Fixed some CSS issues with my webpage. Learned more in depth about the jekyll plugin for github sites, some SCSS/CSS and markdown syntax tricks  
 **Thoughts**: SCSS looks weird at first sight but quite powerful for front-end development.  
 **Link to work**: [SCSS](https://github.com/bawejakunal/bawejakunal.github.io/commit/baffc8bf590c99a3f7653a9ab89084a105ced9c1)  [Jekyll](https://github.com/bawejakunal/bawejakunal.github.io/commit/1454df58f52c8574711c3246a95e155651c5de04)  
 **Time:** 3:00  
 
-### Day 26: July 1st, 2017
+### Day 26: July 1st, 2017  
 **Today's Progress**: Math formulae implementation  
 **Thoughts**: Need a lot of precision and edge cases consideration in mathematical coding  
 **Link to work**: [Math-I](https://github.com/bawejakunal/bawejakunal.github.io/commit/44c8f5e192510d6cf136ce2b84c92ba2145a5972)    
 **Time:** 1:00  
 
-### Day 27: July 1st, 2017
+### Day 27: July 2nd, 2017  
 **Today's Progress**: More math formulae implementation  
 **Thoughts**: Need a lot of precision and edge cases consideration in mathematical coding  
 **Link to work**: [Math-II](https://github.com/bawejakunal/bawejakunal.github.io/commit/44c8f5e192510d6cf136ce2b84c92ba2145a5972)    
+**Time:** 1:00  
+
+### Day 28: July 3rd, 2017  
+**Today's Progress**: Linked List basic algorithms for reversal and intersection detection  
+**Thoughts**: Need to brush up some skills for practise  
+**Link to work**: [Linked Lists](https://github.com/bawejakunal/bawejakunal.github.io/commit/6e913b6288e3b29998117e16e4dc4ff97284f6eb)    
 **Time:** 1:00  
