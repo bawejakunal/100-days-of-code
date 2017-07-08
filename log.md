@@ -193,3 +193,15 @@
 **Thoughts**: Need hard practise for dynamic programming.  
 **Link to work**: [Greedy-DP-II](https://github.com/bawejakunal/leetcode/commit/6b2b0f14ccaa496e1ddfc7320538c60b1ed1063b)    
 **Time:** 1:00  
+
+### Day 32: July 7th, 2017  
+**Today's Progress**: Binary trees with DFS and level order traversals  
+**Thoughts**: Need more practise combined with DP.  
+**Link to work**: [Binary-Trees-I](https://github.com/bawejakunal/leetcode/commit/203fb93dbceca1be88beff12ca51a09786c9a58a)  
+**Time:** 1:15  
+
+### Day 33: July 8th, 2017  
+**Today's Progress**: Binary trees more practise  
+**Thoughts**: Need more practise for solutions combined with DP.  
+**Link to work**: [Binary-Trees-II](https://github.com/bawejakunal/leetcode/commit/cc2d8a99c182c3693977e3a1b71231a82afd930c)  
+**Time:** 1:00
