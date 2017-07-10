@@ -204,4 +204,10 @@
 **Today's Progress**: Binary trees more practise  
 **Thoughts**: Need more practise for solutions combined with DP.  
 **Link to work**: [Binary-Trees-II](https://github.com/bawejakunal/leetcode/commit/cc2d8a99c182c3693977e3a1b71231a82afd930c)  
-**Time:** 1:00
+**Time:** 1:00  
+
+### Day 34: July 9th, 2017  
+**Today's Progress**: Bit manipulation  
+**Thoughts**: A quick brush up required. Its the most fun thing so far in this programming challenge.  
+**Link to work**: [Bit manipulation](https://github.com/bawejakunal/leetcode/commit/f9e6ef6691d2cb85e2b01dec5fd55ee2460e2eda)  
+**Time:** 1:00  
