@@ -211,3 +211,9 @@
 **Thoughts**: A quick brush up required. Its the most fun thing so far in this programming challenge.  
 **Link to work**: [Bit manipulation](https://github.com/bawejakunal/leetcode/commit/f9e6ef6691d2cb85e2b01dec5fd55ee2460e2eda)  
 **Time:** 1:00  
+
+### Day 35: July 10th, 2017  
+**Today's Progress**: Bit manipulation and palindromes  
+**Thoughts**: Got tricked in signed bit manipulation. Need to concentrate better  
+**Link to work**: [Bit manipulation - II](https://github.com/bawejakunal/leetcode/commit/49172bf4e3c289b3bd562be39410eba7991452d3)  
+**Time:** 1:10  
