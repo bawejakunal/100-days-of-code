@@ -217,3 +217,9 @@
 **Thoughts**: Got tricked in signed bit manipulation. Need to concentrate better  
 **Link to work**: [Bit manipulation - II](https://github.com/bawejakunal/leetcode/commit/49172bf4e3c289b3bd562be39410eba7991452d3)  
 **Time:** 1:10  
+
+### Day 36: July 11th, 2017  
+**Today's Progress**:   
+**Thoughts**: Got tricked in signed bit manipulation. Need to concentrate better  
+**Link to work**: [Bit Manipulation - III](https://github.com/bawejakunal/leetcode/commit/6b6a6fd4413590133f90a529eef63dd142bc73c9)  
+**Time:** 1:05  
