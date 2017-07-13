@@ -219,7 +219,13 @@
 **Time:** 1:10  
 
 ### Day 36: July 11th, 2017  
-**Today's Progress**:   
+**Today's Progress**: Bit manipulation continued  
 **Thoughts**: Got tricked in signed bit manipulation. Need to concentrate better  
 **Link to work**: [Bit Manipulation - III](https://github.com/bawejakunal/leetcode/commit/6b6a6fd4413590133f90a529eef63dd142bc73c9)  
 **Time:** 1:05  
+
+### Day 37: July 11th, 2017  
+**Today's Progress**: Revisited binary trees and arrays  
+**Thoughts**: Easy day today, hope to better the speed of solving.  
+**Link to work**: [Bit Manipulation - III](https://github.com/bawejakunal/leetcode/commit/61ab7bbcb592eba5507a665b7e5d8c99ae6f3107)  
+**Time:** 1:00  
