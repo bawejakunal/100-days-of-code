@@ -229,3 +229,9 @@
 **Thoughts**: Easy day today, hope to better the speed of solving.  
 **Link to work**: [Bit Manipulation - III](https://github.com/bawejakunal/leetcode/commit/61ab7bbcb592eba5507a665b7e5d8c99ae6f3107)  
 **Time:** 1:00  
+
+### Day 37: July 11th, 2017  
+**Today's Progress**: Base conversion of numbers  
+**Thoughts**: It was trickier than I would have expected. Clearly math is still week, need to brush up a lot.  
+**Link to work**: [Base Conversion](https://github.com/bawejakunal/leetcode/commit/cc182c364cece72890af5bcc3e98562c0f30de33)  
+**Time:** 1:30  
