@@ -224,14 +224,26 @@
 **Link to work**: [Bit Manipulation - III](https://github.com/bawejakunal/leetcode/commit/6b6a6fd4413590133f90a529eef63dd142bc73c9)  
 **Time:** 1:05  
 
-### Day 37: July 11th, 2017  
+### Day 37: July 12th, 2017  
 **Today's Progress**: Revisited binary trees and arrays  
 **Thoughts**: Easy day today, hope to better the speed of solving.  
 **Link to work**: [Bit Manipulation - III](https://github.com/bawejakunal/leetcode/commit/61ab7bbcb592eba5507a665b7e5d8c99ae6f3107)  
 **Time:** 1:00  
 
-### Day 37: July 11th, 2017  
+### Day 38: July 13th, 2017  
 **Today's Progress**: Base conversion of numbers  
 **Thoughts**: It was trickier than I would have expected. Clearly math is still week, need to brush up a lot.  
 **Link to work**: [Base Conversion](https://github.com/bawejakunal/leetcode/commit/cc182c364cece72890af5bcc3e98562c0f30de33)  
 **Time:** 1:30  
+
+### Day 39: July 14th, 2017  
+**Today's Progress**: String validations  
+**Thoughts**: A good brush up of basics.  
+**Link to work**: [String validations](https://github.com/bawejakunal/leetcode/commit/dfd05dec3441a73bf9b2b856eaf51f4f2f349156)  
+**Time:** 1:10  
+
+### Day 40: July 15th, 2017  
+**Today's Progress**: Array manipulation  
+**Thoughts**: Got to learn some clever tricks.  
+**Link to work**: [Array Manipulation](https://github.com/bawejakunal/leetcode/commit/7fec563f35f27b27b9fbbe2cb8e14a62ca236180)  
+**Time:** 1:10  
