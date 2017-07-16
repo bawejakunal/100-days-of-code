@@ -247,3 +247,9 @@
 **Thoughts**: Got to learn some clever tricks.  
 **Link to work**: [Array Manipulation](https://github.com/bawejakunal/leetcode/commit/7fec563f35f27b27b9fbbe2cb8e14a62ca236180)  
 **Time:** 1:10  
+
+### Day 41: July 16th, 2017  
+**Today's Progress**: Arrays and binary trees  
+**Thoughts**: Continuous practise is essential and its starting to show up. Things are simpler now with increased practise on daily basis.  
+**Link to work**: [Arrays & Trees](https://github.com/bawejakunal/leetcode/commit/7ea642d346350e2c32edc720ecb353b11d49be95)  
+**Time:** 1:00  
