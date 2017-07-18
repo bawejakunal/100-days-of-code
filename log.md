@@ -253,3 +253,11 @@
 **Thoughts**: Continuous practise is essential and its starting to show up. Things are simpler now with increased practise on daily basis.  
 **Link to work**: [Arrays & Trees](https://github.com/bawejakunal/leetcode/commit/7ea642d346350e2c32edc720ecb353b11d49be95)  
 **Time:** 1:00  
+
+
+### Day 42: July 17th, 2017  
+**Today's Progress**: 2D Arrays  
+**Thoughts**: Developing more clarity. Although this is one of the simpler topics its amazing how every time one comes up with a slightly different and possibly better solution.  
+**Link to work**: [2D Arrays](https://github.com/bawejakunal/leetcode/commit/
+5e0696b89a83a7df2bb95871a8d16541384a8567)  
+**Time:** 1:05  
