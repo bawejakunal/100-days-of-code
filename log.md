@@ -254,10 +254,14 @@
 **Link to work**: [Arrays & Trees](https://github.com/bawejakunal/leetcode/commit/7ea642d346350e2c32edc720ecb353b11d49be95)  
 **Time:** 1:00  
 
-
 ### Day 42: July 17th, 2017  
 **Today's Progress**: 2D Arrays  
 **Thoughts**: Developing more clarity. Although this is one of the simpler topics its amazing how every time one comes up with a slightly different and possibly better solution.  
-**Link to work**: [2D Arrays](https://github.com/bawejakunal/leetcode/commit/
-5e0696b89a83a7df2bb95871a8d16541384a8567)  
+**Link to work**: [2D Arrays](https://github.com/bawejakunal/leetcode/commit/5e0696b89a83a7df2bb95871a8d16541384a8567)  
 **Time:** 1:05  
+
+### Day 43: July 18th, 2017  
+**Today's Progress**: Strings and binary numbers  
+**Thoughts**: Sometimes brute force solution is the best solution  
+**Link to work**: [Str & Binary](https://github.com/bawejakunal/leetcode/commit/0e8c4dc145d8459e345d48956bf8c11871f673ea)  
+**Time:** 1:10  
