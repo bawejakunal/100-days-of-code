@@ -265,3 +265,9 @@
 **Thoughts**: Sometimes brute force solution is the best solution  
 **Link to work**: [Str & Binary](https://github.com/bawejakunal/leetcode/commit/0e8c4dc145d8459e345d48956bf8c11871f673ea)  
 **Time:** 1:10  
+
+### Day 44: July 19th, 2017  
+**Today's Progress**: Strings and binary trees  
+**Thoughts**: Need more practise on binary trees  
+**Link to work**: [Binary Trees](https://github.com/bawejakunal/leetcode/commit/2ce294cc57d66d0f1e6ed93bf3f8961725adb423)  
+**Time:** 1:20  
