@@ -271,3 +271,9 @@
 **Thoughts**: Need more practise on binary trees  
 **Link to work**: [Binary Trees](https://github.com/bawejakunal/leetcode/commit/2ce294cc57d66d0f1e6ed93bf3f8961725adb423)  
 **Time:** 1:20  
+
+### Day 45: July 20th, 2017  
+**Today's Progress**: Strings and binary trees  
+**Thoughts**: Need more practise on binary trees  
+**Link to work**: [Binary Trees](https://github.com/bawejakunal/leetcode/commit/8c3ea009018c48de596dff94c7e22e3e2d31c8de)  
+**Time:** 1:30  
