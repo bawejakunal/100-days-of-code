@@ -289,3 +289,9 @@
 **Thoughts**: Good progress, improved fluency  
 **Link to work**: [Trees & Matrices](https://github.com/bawejakunal/leetcode/commit/11e6a0c3b4c3dc472b2ec8fb26c0ab3585be9d3a)  
 **Time:** 1:10  
+
+### Day 46: July 23rd, 2017  
+**Today's Progress**: Strings and arrays  
+**Thoughts**: Need practise on stacks  
+**Link to work**: [Strings and arrays](https://github.com/bawejakunal/leetcode/commit/e4ab65f4b6af4c6a1cf315ff154da9cda54cd385)  
+**Time:** 1:10  
