@@ -295,3 +295,9 @@
 **Thoughts**: Need practise on stacks  
 **Link to work**: [Strings and arrays](https://github.com/bawejakunal/leetcode/commit/e4ab65f4b6af4c6a1cf315ff154da9cda54cd385)  
 **Time:** 1:10  
+
+### Day 47: July 24th, 2017  
+**Today's Progress**: Binary Trees and Strings  
+**Thoughts**: Need practise with DFS traversal of binary trees  
+**Link to work**: [Strings and trees](https://github.com/bawejakunal/leetcode/commit/8b1a96da913faf155d454715d7bfdcf064751503)  
+**Time:** 1:15  
