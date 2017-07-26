@@ -284,20 +284,26 @@
 **Link to work**: [Binary Trees](https://github.com/bawejakunal/leetcode/commit/3531d44ca5b92c40a4f23139fc5f70837d3e5416)  
 **Time:** 1:00  
 
-### Day 46: July 22st, 2017  
+### Day 47: July 22st, 2017  
 **Today's Progress**: Trees and Matrices  
 **Thoughts**: Good progress, improved fluency  
 **Link to work**: [Trees & Matrices](https://github.com/bawejakunal/leetcode/commit/11e6a0c3b4c3dc472b2ec8fb26c0ab3585be9d3a)  
 **Time:** 1:10  
 
-### Day 46: July 23rd, 2017  
+### Day 48: July 23rd, 2017  
 **Today's Progress**: Strings and arrays  
 **Thoughts**: Need practise on stacks  
 **Link to work**: [Strings and arrays](https://github.com/bawejakunal/leetcode/commit/e4ab65f4b6af4c6a1cf315ff154da9cda54cd385)  
 **Time:** 1:10  
 
-### Day 47: July 24th, 2017  
+### Day 49: July 24th, 2017  
 **Today's Progress**: Binary Trees and Strings  
 **Thoughts**: Need practise with DFS traversal of binary trees  
 **Link to work**: [Strings and trees](https://github.com/bawejakunal/leetcode/commit/8b1a96da913faf155d454715d7bfdcf064751503)  
 **Time:** 1:15  
+
+### Day 50: July 25th, 2017  
+**Today's Progress**: Binary Trees and Arrays  
+**Thoughts**: Revision is important factor  
+**Link to work**: [Arrays and Trees](https://github.com/bawejakunal/leetcode/commit/9ab99b80bd573e5a5c7effed1517e9a739452eb6)  
+**Time:** 1:00  
