@@ -307,3 +307,9 @@
 **Thoughts**: Revision is important factor  
 **Link to work**: [Arrays and Trees](https://github.com/bawejakunal/leetcode/commit/9ab99b80bd573e5a5c7effed1517e9a739452eb6)  
 **Time:** 1:00  
+
+### Day 51: July 26th, 2017  
+**Today's Progress**: Math questions  
+**Thoughts**: Even simple math requires continuous practise  
+**Link to work**: [Math](https://github.com/bawejakunal/leetcode/commit/b60780a052f13705bfa32bcc4d440895ea3ea54d)  
+**Time:** 1:10  
