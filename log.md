@@ -313,3 +313,9 @@
 **Thoughts**: Even simple math requires continuous practise  
 **Link to work**: [Math](https://github.com/bawejakunal/leetcode/commit/b60780a052f13705bfa32bcc4d440895ea3ea54d)  
 **Time:** 1:10  
+
+### Day 52: July 26th, 2017  
+**Today's Progress**: Revisiting arrays  
+**Thoughts**: Good revision  
+**Link to work**: [Math](https://github.com/bawejakunal/leetcode/commit/91f3a98c6346d2fae152466a2440ab700ffd014c)  
+**Time:** 1:03  
