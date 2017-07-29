@@ -317,5 +317,12 @@
 ### Day 52: July 26th, 2017  
 **Today's Progress**: Revisiting arrays  
 **Thoughts**: Good revision  
-**Link to work**: [Math](https://github.com/bawejakunal/leetcode/commit/91f3a98c6346d2fae152466a2440ab700ffd014c)  
+**Link to work**: [Arrays](https://github.com/bawejakunal/leetcode/commit/91f3a98c6346d2fae152466a2440ab700ffd014c)  
 **Time:** 1:03  
+
+
+### Day 53: July 27th, 2017  
+**Today's Progress**: Arrays again, some good practise  
+**Thoughts**: Good revision  
+**Link to work**: [Arrays](https://github.com/bawejakunal/leetcode/commit/e91ab280fc9a0ec34dc1e46163739e3b227e483f)  
+**Time:** 1:00  
