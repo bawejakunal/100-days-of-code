@@ -320,9 +320,15 @@
 **Link to work**: [Arrays](https://github.com/bawejakunal/leetcode/commit/91f3a98c6346d2fae152466a2440ab700ffd014c)  
 **Time:** 1:03  
 
-
 ### Day 53: July 27th, 2017  
 **Today's Progress**: Arrays again, some good practise  
 **Thoughts**: Good revision  
 **Link to work**: [Arrays](https://github.com/bawejakunal/leetcode/commit/e91ab280fc9a0ec34dc1e46163739e3b227e483f)  
 **Time:** 1:00  
+
+
+### Day 54: July 28th, 2017  
+**Today's Progress**: Arrays and Math practise  
+**Thoughts**: Simple math requires keen observations and brushing up skills  
+**Link to work**: [Arrays and Math](https://github.com/bawejakunal/leetcode/commit/717b29ec35fddc5e670828c6a2f7d62cdc470f75)  
+**Time:** 1:15  
