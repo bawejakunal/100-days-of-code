@@ -284,7 +284,7 @@
 **Link to work**: [Binary Trees](https://github.com/bawejakunal/leetcode/commit/3531d44ca5b92c40a4f23139fc5f70837d3e5416)  
 **Time:** 1:00  
 
-### Day 47: July 22st, 2017  
+### Day 47: July 22nd, 2017  
 **Today's Progress**: Trees and Matrices  
 **Thoughts**: Good progress, improved fluency  
 **Link to work**: [Trees & Matrices](https://github.com/bawejakunal/leetcode/commit/11e6a0c3b4c3dc472b2ec8fb26c0ab3585be9d3a)  
@@ -314,21 +314,26 @@
 **Link to work**: [Math](https://github.com/bawejakunal/leetcode/commit/b60780a052f13705bfa32bcc4d440895ea3ea54d)  
 **Time:** 1:10  
 
-### Day 52: July 26th, 2017  
+### Day 52: July 27th, 2017  
 **Today's Progress**: Revisiting arrays  
 **Thoughts**: Good revision  
 **Link to work**: [Arrays](https://github.com/bawejakunal/leetcode/commit/91f3a98c6346d2fae152466a2440ab700ffd014c)  
 **Time:** 1:03  
 
-### Day 53: July 27th, 2017  
+### Day 53: July 28th, 2017  
 **Today's Progress**: Arrays again, some good practise  
 **Thoughts**: Good revision  
 **Link to work**: [Arrays](https://github.com/bawejakunal/leetcode/commit/e91ab280fc9a0ec34dc1e46163739e3b227e483f)  
 **Time:** 1:00  
 
-
-### Day 54: July 28th, 2017  
+### Day 54: July 29th, 2017  
 **Today's Progress**: Arrays and Math practise  
 **Thoughts**: Simple math requires keen observations and brushing up skills  
 **Link to work**: [Arrays and Math](https://github.com/bawejakunal/leetcode/commit/717b29ec35fddc5e670828c6a2f7d62cdc470f75)  
 **Time:** 1:15  
+
+### Day 55: Aug 2nd, 2017  
+**Today's Progress**: Strings and Math  
+**Thoughts**: Simple math requires more practise  
+**Link to work**: [Strings and Math](https://github.com/bawejakunal/leetcode/commit/4db786292bc62527deeec1e9e6eb80889a256294)  
+**Time:** 1:15 
