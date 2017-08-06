@@ -338,9 +338,14 @@
 **Link to work**: [Strings and Math](https://github.com/bawejakunal/leetcode/commit/4db786292bc62527deeec1e9e6eb80889a256294)  
 **Time:** 1:15  
 
-
 ### Day 56: Aug 3rd, 2017  
 **Today's Progress**: Binary Tree and Math  
 **Thoughts**: Simple math requires more practise  
 **Link to work**: [Trees and Math](https://github.com/bawejakunal/leetcode/commit/d8b20a43da30344171d725649dc4d4b6c8eab094)  
 **Time:** 1:15  
+
+### Day 57: Aug 5th, 2017  
+**Today's Progress**: Math and arrays practise  
+**Thoughts**: Simple math requires more practise  
+**Link to work**: [Math](https://github.com/bawejakunal/leetcode/commit/091fdd598e34b181b52c4ce0d14496bc8b8bad12)  
+**Time:** 1:10  
