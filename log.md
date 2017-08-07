@@ -349,3 +349,9 @@
 **Thoughts**: Simple math requires more practise  
 **Link to work**: [Math](https://github.com/bawejakunal/leetcode/commit/091fdd598e34b181b52c4ce0d14496bc8b8bad12)  
 **Time:** 1:10  
+
+### Day 58: Aug 6th, 2017  
+**Today's Progress**: Math and Binary Search Trees  
+**Thoughts**: Good practise !  
+**Link to work**: [Math & BST](https://github.com/bawejakunal/leetcode/commit/8eee30f7946b99a3e7bb2cbcc641886b7e764043)  
+**Time:** 1:30 
