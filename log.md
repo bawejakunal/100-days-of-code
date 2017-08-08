@@ -355,3 +355,10 @@
 **Thoughts**: Good practise !  
 **Link to work**: [Math & BST](https://github.com/bawejakunal/leetcode/commit/8eee30f7946b99a3e7bb2cbcc641886b7e764043)  
 **Time:** 1:30 
+
+
+### Day 59: Aug 7th, 2017  
+**Today's Progress**: Binary Tree  
+**Thoughts**: Good practise !  
+**Link to work**: [Binary Tree](https://github.com/bawejakunal/leetcode/commit/883ccd858f206d5d490aaef0920342bf4b769993)  
+**Time:** 1:00 
