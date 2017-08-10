@@ -354,11 +354,16 @@
 **Today's Progress**: Math and Binary Search Trees  
 **Thoughts**: Good practise !  
 **Link to work**: [Math & BST](https://github.com/bawejakunal/leetcode/commit/8eee30f7946b99a3e7bb2cbcc641886b7e764043)  
-**Time:** 1:30 
-
+**Time:** 1:30  
 
 ### Day 59: Aug 7th, 2017  
 **Today's Progress**: Binary Tree  
 **Thoughts**: Good practise !  
 **Link to work**: [Binary Tree](https://github.com/bawejakunal/leetcode/commit/883ccd858f206d5d490aaef0920342bf4b769993)  
-**Time:** 1:00 
+**Time:** 1:00  
+
+### Day 60: Aug 8th, 2017  
+**Today's Progress**: Arrays  
+**Thoughts**: Good practise !  
+**Link to work**: [Arrays](https://github.com/bawejakunal/leetcode/commit/c5fac6cec13875781f11ae6469d4f701dda0c36f)  
+**Time:** 1:00  
