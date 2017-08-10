@@ -367,3 +367,9 @@
 **Thoughts**: Good practise !  
 **Link to work**: [Arrays](https://github.com/bawejakunal/leetcode/commit/c5fac6cec13875781f11ae6469d4f701dda0c36f)  
 **Time:** 1:00  
+
+### Day 61: Aug 9th, 2017  
+**Today's Progress**: Math & Arrays  
+**Thoughts**: Good practise !  
+**Link to work**: [Math & Arrays](https://github.com/bawejakunal/leetcode/commit/fb32a058815d5be9f249a126458d8606b71c0d85)  
+**Time:** 1:00  
