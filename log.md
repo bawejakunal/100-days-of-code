@@ -373,3 +373,9 @@
 **Thoughts**: Good practise !  
 **Link to work**: [Math & Arrays](https://github.com/bawejakunal/leetcode/commit/fb32a058815d5be9f249a126458d8606b71c0d85)  
 **Time:** 1:00  
+
+### Day 62: Aug 10th, 2017  
+**Today's Progress**: Bit Manipulation & Pallindromes  
+**Thoughts**: Getting a hang of dynamic programming !  
+**Link to work**: [Dynamic Programming](https://github.com/bawejakunal/leetcode/commit/ac63f69ad5088b84eb4406f6fa103c9ff475cc7e)  
+**Time:** 1:15  
