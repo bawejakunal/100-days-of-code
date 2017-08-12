@@ -386,3 +386,9 @@
 **Link to work**: [Math & Arrays HR](https://github.com/bawejakunal/leetcode/commit/df16daffa0ecf4ab4c16cff1fc0f900838811227)  
 [Math & Arrays LC](https://github.com/bawejakunal/leetcode/commit/e3def2d8fff5ac3f8e23f534f4addaa14a7b8b9c)  
 **Time:** 1:10  
+
+### Day 64: Aug 12th, 2017  
+**Today's Progress**: Math & Arrays  
+**Thoughts**: Getting stuck on some problems !  
+**Link to work**: [Math & Arrays](https://github.com/bawejakunal/leetcode/commit/a29443a4bcfd4ec6e1a0cbc7d001b93d4fa95c39)  
+**Time:** 1:00  
