@@ -379,3 +379,10 @@
 **Thoughts**: Getting a hang of dynamic programming !  
 **Link to work**: [Dynamic Programming](https://github.com/bawejakunal/leetcode/commit/ac63f69ad5088b84eb4406f6fa103c9ff475cc7e)  
 **Time:** 1:15  
+
+### Day 63: Aug 11th, 2017  
+**Today's Progress**: Math & Arrays  
+**Thoughts**: Getting stuck on some problems !  
+**Link to work**: [Math & Arrays HR](https://github.com/bawejakunal/leetcode/commit/df16daffa0ecf4ab4c16cff1fc0f900838811227)  
+[Math & Arrays LC](https://github.com/bawejakunal/leetcode/commit/e3def2d8fff5ac3f8e23f534f4addaa14a7b8b9c)  
+**Time:** 1:10  
