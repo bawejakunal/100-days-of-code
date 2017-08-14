@@ -392,3 +392,15 @@
 **Thoughts**: Getting stuck on some problems !  
 **Link to work**: [Math & Arrays](https://github.com/bawejakunal/leetcode/commit/a29443a4bcfd4ec6e1a0cbc7d001b93d4fa95c39)  
 **Time:** 1:00  
+
+### Day 65: Aug 13th, 2017  
+**Today's Progress**: Math  
+**Thoughts**: Need more practise !  
+**Link to work**: [Math](https://github.com/bawejakunal/leetcode/commit/d01fca9cbcef2881f19c605c26935c1ea3832b18)  
+**Time:** 1:15  
+
+### Day 66: Aug 14th, 2017  
+**Today's Progress**: Math  
+**Thoughts**: Need more practise !  
+**Link to work**: [Math](https://github.com/bawejakunal/leetcode/commit/6c4039b907898bdd92807da4f34ffc871aa9378f)  
+**Time:** 1:30  
