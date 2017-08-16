@@ -404,3 +404,9 @@
 **Thoughts**: Need more practise !  
 **Link to work**: [Math](https://github.com/bawejakunal/leetcode/commit/6c4039b907898bdd92807da4f34ffc871aa9378f)  
 **Time:** 1:30  
+
+### Day 67: Aug 15th, 2017  
+**Today's Progress**: Arrays & BST  
+**Thoughts**: A good revision !  
+**Link to work**: [Math](https://github.com/bawejakunal/leetcode/commit/1b920d541eca0de4fc8d25edb4916510e9e0a021)  
+**Time:** 1:00  
