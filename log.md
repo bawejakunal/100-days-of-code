@@ -416,3 +416,9 @@
 **Thoughts**: A good revision !  
 **Link to work**: [Trie](https://github.com/bawejakunal/leetcode/commit/e6fa41cbe4d88febc4eaab9f3984ba1eaa0b2fc5)  
 **Time:** 1:00  
+
+### Day 69: Aug 17th, 2017  
+**Today's Progress**: Sorting, queues, stacks 
+**Thoughts**: Back to basics!  
+**Link to work**: [Sorting](https://github.com/bawejakunal/leetcode/commit/69aca43d24d70b0eebdf2d18d153ac4fa4a6dd9c)  
+**Time:** 1:30  
