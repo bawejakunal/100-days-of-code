@@ -408,5 +408,11 @@
 ### Day 67: Aug 15th, 2017  
 **Today's Progress**: Arrays & BST  
 **Thoughts**: A good revision !  
-**Link to work**: [Math](https://github.com/bawejakunal/leetcode/commit/1b920d541eca0de4fc8d25edb4916510e9e0a021)  
+**Link to work**: [Arrays](https://github.com/bawejakunal/leetcode/commit/1b920d541eca0de4fc8d25edb4916510e9e0a021)  
+**Time:** 1:00  
+
+### Day 68: Aug 16th, 2017  
+**Today's Progress**: Arrays & Trie  
+**Thoughts**: A good revision !  
+**Link to work**: [Trie](https://github.com/bawejakunal/leetcode/commit/e6fa41cbe4d88febc4eaab9f3984ba1eaa0b2fc5)  
 **Time:** 1:00  
