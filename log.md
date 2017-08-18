@@ -422,3 +422,9 @@
 **Thoughts**: Back to basics!  
 **Link to work**: [Sorting](https://github.com/bawejakunal/leetcode/commit/69aca43d24d70b0eebdf2d18d153ac4fa4a6dd9c)  
 **Time:** 1:30  
+
+### Day 70: Aug 18th, 2017  
+**Today's Progress**: Recursion and Dynamic Programming  
+**Thoughts**: Need a lot more understanding with DP !  
+**Link to work**: [Recursion](https://github.com/bawejakunal/leetcode/commit/9d213c71f592e325b303eaedfd0ddf76bb96f359)  
+**Time:** 1:30  
