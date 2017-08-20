@@ -428,3 +428,9 @@
 **Thoughts**: Need a lot more understanding with DP !  
 **Link to work**: [Recursion](https://github.com/bawejakunal/leetcode/commit/9d213c71f592e325b303eaedfd0ddf76bb96f359)  
 **Time:** 1:30  
+
+### Day 71: Aug 18th, 2017  
+**Today's Progress**: Recursion and Dynamic Programming  
+**Thoughts**: Need a lot more understanding with DP !  
+**Link to work**: [DP](https://github.com/bawejakunal/leetcode/commit/930a61c8c40d07b2968468829772d031d23a1604)  
+**Time:** 1:00  
