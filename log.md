@@ -434,3 +434,9 @@
 **Thoughts**: Need a lot more understanding with DP !  
 **Link to work**: [DP](https://github.com/bawejakunal/leetcode/commit/930a61c8c40d07b2968468829772d031d23a1604)  
 **Time:** 1:00  
+
+### Day 72: Aug 19th, 2017  
+**Today's Progress**: Simple Math Practise  
+**Thoughts**: Permutations and Combinations require practise!  
+**Link to work**: [Combinatorics](https://github.com/bawejakunal/leetcode/commit/996cc9d13579648bbfe9d8649d01a73ba1b8687c)  
+**Time:** 1:10  
