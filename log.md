@@ -446,3 +446,9 @@
 **Thoughts**: GCD!  
 **Link to work**: [GCD](https://github.com/bawejakunal/leetcode/commit/44f14580fd6a5aede384f04c7ef437a47353d8a7)  
 **Time:** 1:00  
+
+### Day 73: Aug 22nd, 2017  
+**Today's Progress**:  Math Fundamentals  
+**Thoughts**: GCD and Russian Exponentiation!  
+**Link to work**: [Russian Exponentiation](https://github.com/bawejakunal/leetcode/commit/520568aad1f9c8ff0637d18c52f90efa1d659c39)  
+**Time:** 1:20  
