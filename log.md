@@ -429,14 +429,20 @@
 **Link to work**: [Recursion](https://github.com/bawejakunal/leetcode/commit/9d213c71f592e325b303eaedfd0ddf76bb96f359)  
 **Time:** 1:30  
 
-### Day 71: Aug 18th, 2017  
+### Day 71: Aug 19th, 2017  
 **Today's Progress**: Recursion and Dynamic Programming  
 **Thoughts**: Need a lot more understanding with DP !  
 **Link to work**: [DP](https://github.com/bawejakunal/leetcode/commit/930a61c8c40d07b2968468829772d031d23a1604)  
 **Time:** 1:00  
 
-### Day 72: Aug 19th, 2017  
+### Day 72: Aug 20th, 2017  
 **Today's Progress**: Simple Math Practise  
 **Thoughts**: Permutations and Combinations require practise!  
 **Link to work**: [Combinatorics](https://github.com/bawejakunal/leetcode/commit/996cc9d13579648bbfe9d8649d01a73ba1b8687c)  
 **Time:** 1:10  
+
+### Day 73: Aug 21st, 2017  
+**Today's Progress**:  Math Fundamentals  
+**Thoughts**: GCD!  
+**Link to work**: [GCD](https://github.com/bawejakunal/leetcode/commit/44f14580fd6a5aede384f04c7ef437a47353d8a7)  
+**Time:** 1:00  
