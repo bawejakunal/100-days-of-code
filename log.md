@@ -447,8 +447,14 @@
 **Link to work**: [GCD](https://github.com/bawejakunal/leetcode/commit/44f14580fd6a5aede384f04c7ef437a47353d8a7)  
 **Time:** 1:00  
 
-### Day 73: Aug 22nd, 2017  
+### Day 74: Aug 22nd, 2017  
 **Today's Progress**:  Math Fundamentals  
 **Thoughts**: GCD and Russian Exponentiation!  
 **Link to work**: [Russian Exponentiation](https://github.com/bawejakunal/leetcode/commit/520568aad1f9c8ff0637d18c52f90efa1d659c39)  
 **Time:** 1:20  
+
+### Day 75: Aug 23rd, 2017  
+**Today's Progress**:  Number Theory  
+**Thoughts**: Math is so weak !  
+**Link to work**: [Number Theory](https://github.com/bawejakunal/leetcode/commit/f5aababbfb8e43269e32af8bf2db3b6a47e1cca2)  
+**Time:** 1:00  
