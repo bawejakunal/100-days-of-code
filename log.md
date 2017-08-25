@@ -458,3 +458,9 @@
 **Thoughts**: Math is so weak !  
 **Link to work**: [Number Theory](https://github.com/bawejakunal/leetcode/commit/f5aababbfb8e43269e32af8bf2db3b6a47e1cca2)  
 **Time:** 1:00  
+
+### Day 76: Aug 24th, 2017  
+**Today's Progress**:  Combinatorics  
+**Thoughts**: Need much more practise with combinatorics and DP !  
+**Link to work**: [Combinatorics](https://github.com/bawejakunal/leetcode/commit/285ec690ee0dd34df7a152184966a49dfb434f6d)  
+**Time:** 1:00  
