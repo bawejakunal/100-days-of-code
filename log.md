@@ -383,84 +383,91 @@
 ### Day 63: Aug 11th, 2017  
 **Today's Progress**: Math & Arrays  
 **Thoughts**: Getting stuck on some problems !  
-**Link to work**: [Math & Arrays HR](https://github.com/bawejakunal/leetcode/commit/df16daffa0ecf4ab4c16cff1fc0f900838811227)  
+**Link to work**: [Math & Arrays HR](https://github.com/bawejakunal/hackerrank/commit/df16daffa0ecf4ab4c16cff1fc0f900838811227)  
 [Math & Arrays LC](https://github.com/bawejakunal/leetcode/commit/e3def2d8fff5ac3f8e23f534f4addaa14a7b8b9c)  
 **Time:** 1:10  
 
 ### Day 64: Aug 12th, 2017  
 **Today's Progress**: Math & Arrays  
 **Thoughts**: Getting stuck on some problems !  
-**Link to work**: [Math & Arrays](https://github.com/bawejakunal/leetcode/commit/a29443a4bcfd4ec6e1a0cbc7d001b93d4fa95c39)  
+**Link to work**: [Math & Arrays](https://github.com/bawejakunal/hackerrank/commit/a29443a4bcfd4ec6e1a0cbc7d001b93d4fa95c39)  
 **Time:** 1:00  
 
 ### Day 65: Aug 13th, 2017  
 **Today's Progress**: Math  
 **Thoughts**: Need more practise !  
-**Link to work**: [Math](https://github.com/bawejakunal/leetcode/commit/d01fca9cbcef2881f19c605c26935c1ea3832b18)  
+**Link to work**: [Math](https://github.com/bawejakunal/hackerrank/commit/d01fca9cbcef2881f19c605c26935c1ea3832b18)  
 **Time:** 1:15  
 
 ### Day 66: Aug 14th, 2017  
 **Today's Progress**: Math  
 **Thoughts**: Need more practise !  
-**Link to work**: [Math](https://github.com/bawejakunal/leetcode/commit/6c4039b907898bdd92807da4f34ffc871aa9378f)  
+**Link to work**: [Math](https://github.com/bawejakunal/hackerrank/commit/6c4039b907898bdd92807da4f34ffc871aa9378f)  
 **Time:** 1:30  
 
 ### Day 67: Aug 15th, 2017  
 **Today's Progress**: Arrays & BST  
 **Thoughts**: A good revision !  
-**Link to work**: [Arrays](https://github.com/bawejakunal/leetcode/commit/1b920d541eca0de4fc8d25edb4916510e9e0a021)  
+**Link to work**: [Arrays](https://github.com/bawejakunal/hackerrank/commit/1b920d541eca0de4fc8d25edb4916510e9e0a021)  
 **Time:** 1:00  
 
 ### Day 68: Aug 16th, 2017  
 **Today's Progress**: Arrays & Trie  
 **Thoughts**: A good revision !  
-**Link to work**: [Trie](https://github.com/bawejakunal/leetcode/commit/e6fa41cbe4d88febc4eaab9f3984ba1eaa0b2fc5)  
+**Link to work**: [Trie](https://github.com/bawejakunal/hackerrank/commit/e6fa41cbe4d88febc4eaab9f3984ba1eaa0b2fc5)  
 **Time:** 1:00  
 
 ### Day 69: Aug 17th, 2017  
 **Today's Progress**: Sorting, queues, stacks 
 **Thoughts**: Back to basics!  
-**Link to work**: [Sorting](https://github.com/bawejakunal/leetcode/commit/69aca43d24d70b0eebdf2d18d153ac4fa4a6dd9c)  
+**Link to work**: [Sorting](https://github.com/bawejakunal/hackerrank/commit/69aca43d24d70b0eebdf2d18d153ac4fa4a6dd9c)  
 **Time:** 1:30  
 
 ### Day 70: Aug 18th, 2017  
 **Today's Progress**: Recursion and Dynamic Programming  
 **Thoughts**: Need a lot more understanding with DP !  
-**Link to work**: [Recursion](https://github.com/bawejakunal/leetcode/commit/9d213c71f592e325b303eaedfd0ddf76bb96f359)  
+**Link to work**: [Recursion](https://github.com/bawejakunal/hackerrank/commit/9d213c71f592e325b303eaedfd0ddf76bb96f359)  
 **Time:** 1:30  
 
 ### Day 71: Aug 19th, 2017  
 **Today's Progress**: Recursion and Dynamic Programming  
 **Thoughts**: Need a lot more understanding with DP !  
-**Link to work**: [DP](https://github.com/bawejakunal/leetcode/commit/930a61c8c40d07b2968468829772d031d23a1604)  
+**Link to work**: [DP](https://github.com/bawejakunal/hackerrank/commit/930a61c8c40d07b2968468829772d031d23a1604)  
 **Time:** 1:00  
 
 ### Day 72: Aug 20th, 2017  
 **Today's Progress**: Simple Math Practise  
 **Thoughts**: Permutations and Combinations require practise!  
-**Link to work**: [Combinatorics](https://github.com/bawejakunal/leetcode/commit/996cc9d13579648bbfe9d8649d01a73ba1b8687c)  
+**Link to work**: [Combinatorics](https://github.com/bawejakunal/hackerrank/commit/996cc9d13579648bbfe9d8649d01a73ba1b8687c)  
 **Time:** 1:10  
 
 ### Day 73: Aug 21st, 2017  
 **Today's Progress**:  Math Fundamentals  
 **Thoughts**: GCD!  
-**Link to work**: [GCD](https://github.com/bawejakunal/leetcode/commit/44f14580fd6a5aede384f04c7ef437a47353d8a7)  
+**Link to work**: [GCD](https://github.com/bawejakunal/hackerrank/commit/44f14580fd6a5aede384f04c7ef437a47353d8a7)  
 **Time:** 1:00  
 
 ### Day 74: Aug 22nd, 2017  
 **Today's Progress**:  Math Fundamentals  
 **Thoughts**: GCD and Russian Exponentiation!  
-**Link to work**: [Russian Exponentiation](https://github.com/bawejakunal/leetcode/commit/520568aad1f9c8ff0637d18c52f90efa1d659c39)  
+**Link to work**: [Russian Exponentiation](https://github.com/bawejakunal/hackerrank/commit/520568aad1f9c8ff0637d18c52f90efa1d659c39)  
 **Time:** 1:20  
 
 ### Day 75: Aug 23rd, 2017  
 **Today's Progress**:  Number Theory  
 **Thoughts**: Math is so weak !  
-**Link to work**: [Number Theory](https://github.com/bawejakunal/leetcode/commit/f5aababbfb8e43269e32af8bf2db3b6a47e1cca2)  
+**Link to work**: [Number Theory](https://github.com/bawejakunal/hackerrank/commit/f5aababbfb8e43269e32af8bf2db3b6a47e1cca2)  
 **Time:** 1:00  
 
 ### Day 76: Aug 24th, 2017  
 **Today's Progress**:  Combinatorics  
 **Thoughts**: Need much more practise with combinatorics and DP !  
-**Link to work**: [Combinatorics](https://github.com/bawejakunal/leetcode/commit/285ec690ee0dd34df7a152184966a49dfb434f6d)  
+**Link to work**: [Combinatorics](https://github.com/bawejakunal/hackerrank/commit/285ec690ee0dd34df7a152184966a49dfb434f6d)  
 **Time:** 1:00  
+
+### Day 77: Aug 25th, 2017  
+**Today's Progress**:  Arrays and Strings  
+**Thoughts**: A good revision of basics. Learned to rotate a matrix in place !  
+**Link to work**: [Arrays and Strings](https://github.com/bawejakunal/ctci/commit/caa0ad1920ee9c493405387ef4b758a55ba84386)  
+**Time:** 2:30  
+
