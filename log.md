@@ -471,3 +471,8 @@
 **Link to work**: [Arrays and Strings](https://github.com/bawejakunal/ctci/commit/caa0ad1920ee9c493405387ef4b758a55ba84386)  
 **Time:** 2:30  
 
+### Day 78: Aug 26th, 2017  
+**Today's Progress**:  Linked Lists  
+**Thoughts**: A good revision of basics for linked lists !  
+**Link to work**: [Linked List](https://github.com/bawejakunal/ctci/commit/d710c75a87f9b77b73166eb79436caa8177fefc0)  
+**Time:** 2:30  
