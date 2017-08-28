@@ -476,3 +476,9 @@
 **Thoughts**: A good revision of basics for linked lists !  
 **Link to work**: [Linked List](https://github.com/bawejakunal/ctci/commit/d710c75a87f9b77b73166eb79436caa8177fefc0)  
 **Time:** 2:30  
+
+### Day 79: Aug 27th, 2017  
+**Today's Progress**: Stacks and queues  
+**Thoughts**: TIL: Things are not as complex as they seem. Just need to keep up the practise and touch base with basics regularly !  
+**Link to work**: [Stacks and Queues](https://github.com/bawejakunal/ctci/commit/af991f8bd8be8ad1d2777b64c8af05471931ea1a)  
+**Time:** 3:00 
