@@ -482,3 +482,9 @@
 **Thoughts**: TIL: Things are not as complex as they seem. Just need to keep up the practise and touch base with basics regularly !  
 **Link to work**: [Stacks and Queues](https://github.com/bawejakunal/ctci/commit/af991f8bd8be8ad1d2777b64c8af05471931ea1a)  
 **Time:** 3:00 
+
+### Day 80: Aug 28th, 2017  
+**Today's Progress**: Binary trees and graph algorithms  
+**Thoughts**: Need rigorous practise with graph algorithms, DFS and BFS !  
+**Link to work**: [Trees and Graphs](https://github.com/bawejakunal/ctci/commit/cb90ee014b023bae379914b519fd605a47f17e3c)  
+**Time:** 3:00 
