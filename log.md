@@ -493,4 +493,5 @@
 **Today's Progress**: Binary trees and graph algorithms  
 **Thoughts**: Need rigorous practise with graph algorithms, DFS and BFS !  
 **Link to work**: [Trees and Graphs](https://github.com/bawejakunal/ctci/commit/c9f63397f06ec6832326e5fd8068067350a7042c)  
-**Time:** 1:20  
+**Link to work**: [Bit Manipulation](https://github.com/bawejakunal/ctci/commit/82c40d80bd2c5ef7690019823afb0781274fd5b6)  
+**Time:** 3:20  
