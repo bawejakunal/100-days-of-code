@@ -495,3 +495,9 @@
 **Link to work**: [Trees and Graphs](https://github.com/bawejakunal/ctci/commit/c9f63397f06ec6832326e5fd8068067350a7042c)  
 **Link to work**: [Bit Manipulation](https://github.com/bawejakunal/ctci/commit/82c40d80bd2c5ef7690019823afb0781274fd5b6)  
 **Time:** 3:20  
+
+### Day 82: Aug 29th, 2017  
+**Today's Progress**: Math and Probability  
+**Thoughts**: Floating point precisions can be tough if required !  
+**Link to work**: [Math & Probability](https://github.com/bawejakunal/ctci/commit/0ca1aee2adac777ce4a99c3e300a9a6118aa0ba8)  
+**Time:** 1:20  
