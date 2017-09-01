@@ -496,8 +496,14 @@
 **Link to work**: [Bit Manipulation](https://github.com/bawejakunal/ctci/commit/82c40d80bd2c5ef7690019823afb0781274fd5b6)  
 **Time:** 3:20  
 
-### Day 82: Aug 29th, 2017  
+### Day 82: Aug 30th, 2017  
 **Today's Progress**: Math and Probability  
 **Thoughts**: Floating point precisions can be tough if required !  
 **Link to work**: [Math & Probability](https://github.com/bawejakunal/ctci/commit/0ca1aee2adac777ce4a99c3e300a9a6118aa0ba8)  
+**Time:** 1:20  
+
+### Day 83: Aug 31st, 2017  
+**Today's Progress**: Dynamic Programming & Recursion  
+**Thoughts**: Recursion on simple problems !  
+**Link to work**: [Recursion](https://github.com/bawejakunal/ctci/commit/4d1b9bb0629afe38386ca27f678f13133992386d)  
 **Time:** 1:20  
