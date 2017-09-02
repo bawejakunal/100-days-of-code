@@ -513,3 +513,9 @@
 **Thoughts**: Finally understood the coin change solution !  
 **Link to work**: [Dynamic Programming](https://github.com/bawejakunal/ctci/commit/3d847517f2107c3926aedea672854dbbb1dbe25b)  
 **Time:** 2:30  
+
+### Day 85: Sept 2nd, 2017  
+**Today's Progress**: Graph searching  
+**Thoughts**: BFS and DFS are easy. Need to practise rather than procrastinate !  
+**Link to work**: [Graph Algorithms](https://github.com/bawejakunal/hackerrank/commit/5bb55168215142c1262fab1d9dfa3d1454ddb110)  
+**Time:** 1:00  
