@@ -507,3 +507,9 @@
 **Thoughts**: Recursion on simple problems !  
 **Link to work**: [Recursion](https://github.com/bawejakunal/ctci/commit/4d1b9bb0629afe38386ca27f678f13133992386d)  
 **Time:** 1:20  
+
+### Day 84: Sept 1st, 2017  
+**Today's Progress**: Dynamic Programming  
+**Thoughts**: Finally understood the coin change solution !  
+**Link to work**: [Dynamic Programming](https://github.com/bawejakunal/ctci/commit/3d847517f2107c3926aedea672854dbbb1dbe25b)  
+**Time:** 2:30  
