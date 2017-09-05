@@ -519,3 +519,15 @@
 **Thoughts**: BFS and DFS are easy. Need to practise rather than procrastinate !  
 **Link to work**: [Graph Algorithms](https://github.com/bawejakunal/hackerrank/commit/5bb55168215142c1262fab1d9dfa3d1454ddb110)  
 **Time:** 1:00  
+
+### Day 86: Sept 3rd, 2017  
+**Today's Progress**: Dynamic Programming  
+**Thoughts**: Dynamic Programming practise  
+**Link to work**: [Dynamic Programming](https://github.com/bawejakunal/ctci/commit/16e4a4daf4b308cc572602fb0edef2a33150ffe4)  
+**Time:** 1:30  
+
+### Day 87: Sept 4th, 2017  
+**Today's Progress**: Dynamic Programming  
+**Thoughts**: Dynamic Programming practise  
+**Link to work**: [Dynamic Programming](https://github.com/bawejakunal/ctci/commit/a515c257e50f29872727e40c763c72bf46b3061c)  
+**Time:** 2:00  
