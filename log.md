@@ -532,8 +532,14 @@
 **Link to work**: [Dynamic Programming](https://github.com/bawejakunal/ctci/commit/a515c257e50f29872727e40c763c72bf46b3061c)  
 **Time:** 2:00  
 
-### Day 88: Sept 6th, 2017  
+### Day 88: Sept 5th, 2017  
 **Today's Progress**: System Design & Graph algorithms  
 **Thoughts**: System design is important and pretty open ended  
 **Link to work**: [System Design](#)  
 **Time:** 2:00  
+
+### Day 89: Sept 6th, 2017  
+**Today's Progress**: Sorting and searching  
+**Thoughts**: Searching and sorting with greedy strategies  
+**Link to work**: [Searching](https://github.com/bawejakunal/ctci/commit/8222f2b1b990573e75d19f8b25ff28f3420028d4)  
+**Time:** 1:30  
