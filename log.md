@@ -137,7 +137,7 @@
 ### Day 22: June 27th, 2017  
 **Today's Progress**: Played around with AWS C++ SDK for multipart downloads from S3 and multithreading  
 **Thoughts**: Learned that its good to trust your gut and have confidence. Sometimes even the best SDKs can be broken.  
-**Link to work**: Coming Soon  
+**Link to work**: [Bug fix](https://github.com/bawejakunal/aws-sdk-java/commit/8592b160e71378493e8b103b42a3f96214fb7e83)  
 **Time:** 1:30  
 
 ### Day 23: June 28th, 2017  
@@ -149,7 +149,7 @@
 ### Day 24: June 29th, 2017  
 **Today's Progress**: More fiddling with AWS C++ and Java SDKs for multipart file downloads from S3 buckets. Seems the C++ sdk is broken as of v1.0.62 released by AWS  
 **Thoughts**: Performance evaluation and doing it correctly, taking all concerned parameters into account is difficult and crucial  
-**Link to work**: Coming Soon  
+**Link to work**: [Bug fix](https://github.com/bawejakunal/aws-sdk-java/commit/8592b160e71378493e8b103b42a3f96214fb7e83)  
 **Time:** 2:00  
 
 ### Day 25: June 30th, 2017  
@@ -530,4 +530,10 @@
 **Today's Progress**: Dynamic Programming  
 **Thoughts**: Dynamic Programming practise  
 **Link to work**: [Dynamic Programming](https://github.com/bawejakunal/ctci/commit/a515c257e50f29872727e40c763c72bf46b3061c)  
+**Time:** 2:00  
+
+### Day 88: Sept 6th, 2017  
+**Today's Progress**: System Design & Graph algorithms  
+**Thoughts**: System design is important and pretty open ended  
+**Link to work**: [System Design](#)  
 **Time:** 2:00  
