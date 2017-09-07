@@ -541,5 +541,5 @@
 ### Day 89: Sept 6th, 2017  
 **Today's Progress**: Sorting and searching  
 **Thoughts**: Searching and sorting with greedy strategies  
-**Link to work**: [Searching](https://github.com/bawejakunal/ctci/commit/8222f2b1b990573e75d19f8b25ff28f3420028d4)  
+**Link to work**: [Searching](https://github.com/bawejakunal/hackerrank/commit/8222f2b1b990573e75d19f8b25ff28f3420028d4)  
 **Time:** 1:30  
