@@ -549,3 +549,9 @@
 **Thoughts**: Searching and sorting with greedy strategies  
 **Link to work**: [Searching](https://github.com/bawejakunal/hackerrank/commit/5216646073468279909f96dab8bef96f25d0928b)  
 **Time:** 1:30  
+
+### Day 91: Sept 8th, 2017  
+**Today's Progress**: Graph cut problem  
+**Thoughts**: Learned to solve a tricky yet simple problem using basic concepts  
+**Link to work**: [Graph Cut](https://github.com/bawejakunal/hackerrank/commit/999008a19c3196c9706a9165923f5683ea887127)  
+**Time:** 2:30  
