@@ -555,3 +555,15 @@
 **Thoughts**: Learned to solve a tricky yet simple problem using basic concepts  
 **Link to work**: [Graph Cut](https://github.com/bawejakunal/hackerrank/commit/999008a19c3196c9706a9165923f5683ea887127)  
 **Time:** 2:30  
+
+### Day 92: Sept 9th, 2017  
+**Today's Progress**: Worked on Google Text Translation API for Hello World messaging app's message translations  
+**Thoughts**: Learning the Google Cloud App Engine  
+**Link to work**: [PennApps](https://devpost.com/software/hello-world-5v89re)  
+**Time:** 10:00  
+
+### Day 93: Sept 10th, 2017  
+**Today's Progress**: Worked on Google Datastore, Firebase Realtime Database for managing user profiles and synchronizing messages  
+**Thoughts**: Learning the Google Cloud App Engine  
+**Link to work**: [PennApps](https://devpost.com/software/hello-world-5v89re)  
+**Time:** 8:00  
