@@ -567,3 +567,9 @@
 **Thoughts**: Learning the Google Cloud App Engine  
 **Link to work**: [PennApps](https://devpost.com/software/hello-world-5v89re)  
 **Time:** 8:00  
+
+### Day 94: Sept 11th, 2017  
+**Today's Progress**: Practising some algorithms and search problems  
+**Thoughts**: Practising has helped me improve a lot and regain confidence  
+**Link to work**: [LeetCode](https://github.com/bawejakunal/leetcode/commit/1750380236bf3ef70631ca6e13fecad0a2446665)  
+**Time:** 1:20  
