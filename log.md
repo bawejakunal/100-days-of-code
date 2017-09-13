@@ -579,3 +579,9 @@
 **Thoughts**: Need practise with backtracking algorithms  
 **Link to work**: [LeetCode](https://github.com/bawejakunal/leetcode/commit/d1dff475433bf937fa583c20b32ae51c2544c6ac)  
 **Time:** 1:30  
+
+### Day 96: Sept 12th, 2017  
+**Today's Progress**: Bit manipulations and array searching  
+**Thoughts**: Good practise of graph and array algorithms  
+**Link to work**: [LeetCode](https://github.com/bawejakunal/leetcode/commit/94a813b553fe21168c526150b183df0e33d3208f)  
+**Time:** 1:30  
