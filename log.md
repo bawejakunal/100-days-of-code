@@ -573,3 +573,10 @@
 **Thoughts**: Practising has helped me improve a lot and regain confidence  
 **Link to work**: [LeetCode](https://github.com/bawejakunal/leetcode/commit/1750380236bf3ef70631ca6e13fecad0a2446665)  
 **Time:** 1:20  
+
+
+### Day 94: Sept 11th, 2017  
+**Today's Progress**: Math problems and backtracking  
+**Thoughts**: Need practise with backtracking algorithms  
+**Link to work**: [LeetCode](https://github.com/bawejakunal/leetcode/commit/d1dff475433bf937fa583c20b32ae51c2544c6ac)  
+**Time:** 1:30  
