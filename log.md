@@ -585,3 +585,9 @@
 **Thoughts**: Good practise of graph and array algorithms  
 **Link to work**: [LeetCode](https://github.com/bawejakunal/leetcode/commit/94a813b553fe21168c526150b183df0e33d3208f)  
 **Time:** 1:30  
+
+### Day 97: Sept 13th, 2017  
+**Today's Progress**: Array searching  
+**Thoughts**: Some easy array algorithms  
+**Link to work**: [LeetCode](https://github.com/bawejakunal/leetcode/commit/abf34474e3868ddf74daae311dffebe78367790d)  
+**Time:** 1:10  
