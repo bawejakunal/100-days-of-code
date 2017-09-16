@@ -574,20 +574,33 @@
 **Link to work**: [LeetCode](https://github.com/bawejakunal/leetcode/commit/1750380236bf3ef70631ca6e13fecad0a2446665)  
 **Time:** 1:20  
 
-### Day 95: Sept 11th, 2017  
+### Day 95: Sept 12th, 2017  
 **Today's Progress**: Math problems and backtracking  
 **Thoughts**: Need practise with backtracking algorithms  
 **Link to work**: [LeetCode](https://github.com/bawejakunal/leetcode/commit/d1dff475433bf937fa583c20b32ae51c2544c6ac)  
 **Time:** 1:30  
 
-### Day 96: Sept 12th, 2017  
+### Day 96: Sept 13th, 2017  
 **Today's Progress**: Bit manipulations and array searching  
 **Thoughts**: Good practise of graph and array algorithms  
 **Link to work**: [LeetCode](https://github.com/bawejakunal/leetcode/commit/94a813b553fe21168c526150b183df0e33d3208f)  
 **Time:** 1:30  
 
-### Day 97: Sept 13th, 2017  
+### Day 97: Sept 14th, 2017  
 **Today's Progress**: Array searching  
 **Thoughts**: Some easy array algorithms  
 **Link to work**: [LeetCode](https://github.com/bawejakunal/leetcode/commit/abf34474e3868ddf74daae311dffebe78367790d)  
 **Time:** 1:10  
+
+### Day 98: Sept 15th, 2017  
+**Today's Progress**: BFS, DFS  algorithms and 2-D Arrays  
+**Thoughts**: Can see the results of hard work now :)  
+**Link to work**: [LeetCode](https://github.com/bawejakunal/leetcode/commit/e588e1e83a0b1dafac7fe766e171b7d40d72c2d5)  
+**Time:** 1:00  
+
+### Day 99: Sept 16th, 2017  
+**Today's Progress**: Minesweeper and binary tree printing  
+**Thoughts**: Better practise and turn around times for tree and graph algorithms. Thanks to continuous practise  
+**Link to work**: [LeetCode](https://github.com/bawejakunal/leetcode/commit/3a82158e49b8808ee5ab1d56dcc40db8bdc53ec9)  
+**Time:** 1:00  
+
