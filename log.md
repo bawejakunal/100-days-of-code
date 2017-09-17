@@ -604,3 +604,8 @@
 **Link to work**: [LeetCode](https://github.com/bawejakunal/leetcode/commit/3a82158e49b8808ee5ab1d56dcc40db8bdc53ec9)  
 **Time:** 1:00  
 
+### Day 100: Sept 17th, 2017  
+**Today's Progress**:  DFS, Bit Manipulation, Arrays and 2D matrices  
+**Thoughts**: Feels good to have come so far. The daily practise of algorithms has helped me to significantly strengthen my basics and gain confidence in self. Thanks to @ka11away for starting this initiative, it has been an inspiring and great learning curve.  
+**Link to work**: [LeetCode](https://github.com/bawejakunal/leetcode/commit/3694b56ed9f9140ec0ea893ca39af523b5da10ce)  
+**Time:** 1:20  
